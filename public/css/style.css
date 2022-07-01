@@ -1,0 +1,9 @@
+#contenedor {
+    background:url("/img/bg.jpg") no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+div#letra {
+    height: 350px;
+    overflow: scroll;
+}
